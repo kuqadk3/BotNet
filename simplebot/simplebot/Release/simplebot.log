@@ -1,0 +1,18 @@
+﻿Build started 9/25/2016 5:23:09 PM.
+     1>Project "C:\Users\Zer0\Desktop\Project October\TigerAss Source bot\shitbot\simplebot\simplebot\simplebot.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O1 /Os /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\simplebot.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O1 /Os /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\simplebot.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt simplebot.cpp
+         simplebot.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Zer0\Desktop\Project October\TigerAss Source bot\shitbot\simplebot\Release\simplebot.exe" /INCREMENTAL:NO /NOLOGO WS2_32.lib msvcrt.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB /MANIFEST:NO /PDB:"C:\Users\Zer0\Desktop\Project October\TigerAss Source bot\shitbot\simplebot\Release\simplebot.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Zer0\Desktop\Project October\TigerAss Source bot\shitbot\simplebot\Release\simplebot.lib" /MERGE:".rdata=.text" /MACHINE:X86 /SAFESEH Release\simplebot.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         simplebot.vcxproj -> C:\Users\Zer0\Desktop\Project October\TigerAss Source bot\shitbot\simplebot\Release\simplebot.exe
+     1>Done Building Project "C:\Users\Zer0\Desktop\Project October\TigerAss Source bot\shitbot\simplebot\simplebot\simplebot.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.21

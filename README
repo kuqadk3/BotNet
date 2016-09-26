@@ -1,0 +1,19 @@
+Bacuse I have had some free hours I made this once for a friend to show basic communication of an HTTP bot.
+
+
+This Package consists of:
+htdocs:
+	the g dir must be placed inside the htdocs of your webserver. It must be accessible via localhost/g
+		index.php -> shows only if php is working. Is called by default if you visit localhost/g.
+		g.php -> The gate. Accepts the bot's data and writes them into database. It suffers from SQLI, so one more playground ;)
+		main.php -> The interface. It reads the database and prints it.
+	If you have problems setting up some webserver:
+	http://lmgtfy.com/?q=how+to+install+xampp
+
+MySQL-DB:
+	The database structure with some example data. You have to import simplebot.sql into mysql. Via phpmyadmin for example.
+	If you have problems importing the databse:
+	http://lmgtfy.com/?q=import+database+mysql+phpmyadmin
+
+simplebot:
+	the VS2010 project of the bot. should be commented well enough.
