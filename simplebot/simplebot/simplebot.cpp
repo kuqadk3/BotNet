@@ -1,5 +1,3 @@
-//simplebot.cpp
-//Tigerass
 
 #include "stdafx.h"
 
